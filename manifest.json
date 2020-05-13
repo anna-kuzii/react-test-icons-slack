@@ -1,12 +1,5 @@
 {
-  "name": "Airtable",
-  "icons": [
-    {
-      "src": "https://airtable.com/images/favicon/baymax/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ],
+  "name": "Kuku",
   "theme_color": "#ffffff",
   "display": "standalone"
 }
